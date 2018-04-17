@@ -24,7 +24,7 @@ class Score extends React.Component{
 				
 					<Grid item xs >
 						<Paper style={itemStyle}>
-						    <Typography variant="subheading" gutterBottom style={typeColor}>
+						    <Typography variant="subheading" gutterBottom color="#EF5350">
 	      					  Tossed <br />
 								{this.props.tossed}
 	    				    </Typography>
